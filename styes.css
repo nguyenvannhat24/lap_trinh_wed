@@ -1,0 +1,29 @@
+.red {
+  color: #ff0000;
+  font-size: 25px;
+}
+.contain {
+  background-image: url(https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/11/avatar-dep-thumbnail.jpg);
+  padding: 30px, 20px, 30px, 30px;
+  /* top right bot left */
+}
+.contain2 {
+  background-color: #ff0000;
+  padding: auto;
+}
+table {
+  width: 100%;
+  border: 1px solid;
+}
+tr {
+  border: #ff0000;
+}
+.table {
+  width: 100%;
+  border: 1px solid #ff0000;
+}
+.table div {
+  border: 1px solid #333;
+  float: left;
+  width: 40%;
+}
